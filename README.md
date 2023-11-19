@@ -2,6 +2,7 @@
 
 a Hotel internal system
 
+- one authenticated user (email ==> abdullah@email.com), (password ==> 123456789)
 - [live demo](https://the-wild-oasis-hotell-app.netlify.app/login)
 
 ## About the app
